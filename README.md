@@ -7,5 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-jazmin es terraplanista
+• tengo 18 años
+• desempleada oficial
+• jazmin es terraplanista
 
