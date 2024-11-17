@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hello world</h1>
 </div>
-![Banner](https://github.com/daneuse07/daneuse07/blob/main/banner.jpg?raw=true)
+![Banner](https://raw.githubusercontent.com/daneuse07/daneuse07/main/banner.jpg)
+
 <!--
 **daneuse07/daneuse07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
