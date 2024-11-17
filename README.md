@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 -->
 <ul>
-  <li>Tengo 18 años</li>
-  <li>Desempleada oficial</li>
-  <li>Jazmín es terraplanista</li>
+  <li>18 años</li>
+  <li>desempleada oficial</li>
+  <li>jazmín es terraplanista</li>
 </ul>
 
 
