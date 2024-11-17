@@ -7,7 +7,8 @@
 
 Here are some ideas to get you started:
 -->
-• tengo 18 años
-• desempleada oficial
-• jazmin es terraplanista
-
+<ul>
+  <li>Tengo 18 años</li>
+  <li>Desempleada oficial</li>
+  <li>Jazmín es terraplanista</li>
+</ul>
