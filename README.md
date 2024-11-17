@@ -1,4 +1,4 @@
-<h1 align="center">gecko</h1>
+<h1 align="center">gecko (╹ڡ╹ )</h1>
 
 ![Banner](bannergecko.png)
 
